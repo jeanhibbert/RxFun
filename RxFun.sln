@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxFunConsole", "RxFunConsole\RxFunConsole.csproj", "{F5458710-B723-4C42-AC21-DCBA64173342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RxFunConsole", "RxFunConsole\RxFunConsole.csproj", "{F5458710-B723-4C42-AC21-DCBA64173342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Nixon", "TradingPlaces.Nixon\TradingPlaces.Nixon.csproj", "{B5B2AA20-563E-4286-8EB3-9BE0C6F60CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Nixon", "TradingPlaces.Nixon\TradingPlaces.Nixon.csproj", "{B5B2AA20-563E-4286-8EB3-9BE0C6F60CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Server.Domain", "TradingPlaces.Server.Domain\TradingPlaces.Server.Domain.csproj", "{B2FC1023-7B2A-4D37-AEF4-1474D379C466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Server.Domain", "TradingPlaces.Server.Domain\TradingPlaces.Server.Domain.csproj", "{B2FC1023-7B2A-4D37-AEF4-1474D379C466}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0518569A-9FA5-4969-95CA-02252D7DD790}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
