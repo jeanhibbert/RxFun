@@ -19,17 +19,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{CB5D9C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D1E7215E-2795-4181-906F-F28121B347F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Tests", "TradingPlaces.Tests\TradingPlaces.Tests.csproj", "{E7BD0F5C-582F-4F98-9A3B-E550CD826E76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Tests", "TradingPlaces.Tests\TradingPlaces.Tests.csproj", "{E7BD0F5C-582F-4F98-9A3B-E550CD826E76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Shared", "TradingPlaces.Shared\TradingPlaces.Shared.csproj", "{78CEA208-3588-42C0-A4BB-877E00308F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Shared", "TradingPlaces.Shared\TradingPlaces.Shared.csproj", "{78CEA208-3588-42C0-A4BB-877E00308F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Server.LocalDomain", "TradingPlaces.Server.LocalDomain\TradingPlaces.Server.LocalDomain.csproj", "{94F54149-C52C-4AA2-A346-98C1441BF34D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Server.LocalDomain", "TradingPlaces.Server.LocalDomain\TradingPlaces.Server.LocalDomain.csproj", "{94F54149-C52C-4AA2-A346-98C1441BF34D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Server.GUI", "TradingPlaces.Server.GUI\TradingPlaces.Server.GUI.csproj", "{D775E46D-EC88-48E4-947D-A7D7D1C532BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Server.GUI", "TradingPlaces.Server.GUI\TradingPlaces.Server.GUI.csproj", "{D775E46D-EC88-48E4-947D-A7D7D1C532BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Client.Domain", "TradingPlaces.Client.Domain\TradingPlaces.Client.Domain.csproj", "{F3C9D1F4-25C0-4BDC-A95A-A573EE6BA718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Client.Domain", "TradingPlaces.Client.Domain\TradingPlaces.Client.Domain.csproj", "{F3C9D1F4-25C0-4BDC-A95A-A573EE6BA718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingPlaces.Client", "TradingPlaces.Client\TradingPlaces.Client.csproj", "{464DA129-80EA-4813-B9C1-F8B3C704F025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingPlaces.Client", "TradingPlaces.Client\TradingPlaces.Client.csproj", "{464DA129-80EA-4813-B9C1-F8B3C704F025}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
